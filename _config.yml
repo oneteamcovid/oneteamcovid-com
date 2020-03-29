@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "One Team Covid-19"
 keywords:    "healthcare, support, covid-19"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+description: "One Team Covid-19 donations page."
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
